@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "769600597413",
+    "project_id": "strictly-business-58b1f",
+    "storage_bucket": "strictly-business-58b1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769600597413:android:1dfa0229058620e501cc4c",
+        "android_client_info": {
+          "package_name": "com.example.strictlybusiness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769600597413-ib35iomr16b7p0shpl0na90a4t995s95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvs9Br5DjZI3erHZbxXj5R-c4KK_kpTas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769600597413-ib35iomr16b7p0shpl0na90a4t995s95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
